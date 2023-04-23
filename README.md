@@ -47,7 +47,8 @@ contract MyToken {
 ## Authors
 
 Salinas, Julianne A.
-[@oxxolaleliaa](https://instagram.com/oxxolaliaa)
+NTC BSIT Student
+
 
 ## License
 
