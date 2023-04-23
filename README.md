@@ -47,7 +47,7 @@ contract MyToken {
 ## Authors
 
 Salinas, Julianne A.
-NTC BSIT Student
+    NTC BSIT Student
 
 
 ## License
