@@ -4,9 +4,9 @@ This Solidity is the final project to show off code that creates a basic token c
 
 ## Description
 
-The functions in this contract can be used to create tokens and burn them. Once the code is deployed, how the user entered data will determine how the code is executed. The purpose of this program is to impart a little bit of Solidity knowledge to beginners.  
-
 This Solidity is an programming language designed for developing smart contracts that run on the Ethereum Virtual Machine. This project requires to make contract that can be used to create a tokens with two varibles; public variables that store details about coins and mapping variables to mapping addresses to balances. Then two functions; mint function that increases the total supply by that number and increases the balance of the address by that amount and burn function which works the opposite of the mint function, as it will destroy tokens. However, burn function have conditionals to make sure that the balance greater than or equal to the amount that is supposed to be burned.  
+
+
 ## Getting Started
 
 ### Executing program
